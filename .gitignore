@@ -1,0 +1,5 @@
+.vscode
+Horoscope/Scraper/node_modules
+.ai
+.aep
+Horoscope/gpt-2-cloud-run
